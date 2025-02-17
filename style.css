@@ -1,0 +1,21 @@
+.container{
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.start{
+    background-color: red;
+}
+.submit{
+    background-color: green;
+}
+.hidden{
+    display: none;
+}
+.text{
+    text-align: center;
+    font-size: 50px;
+}
